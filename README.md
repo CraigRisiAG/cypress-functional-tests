@@ -1,3 +1,6 @@
+# Purpose of Framework
+This is a basic cypress framework design for teams with minimal requirements and where a fast and easy cypress framework is required. For bigger applications with more advanced architectures, the web-based framework which includes Axios and API testing is preferred. 
+
 ## Help + Testing
 The steps below will take you all the way through Cypress.
 
